@@ -23,7 +23,7 @@ class Program
     }
     
     //Checks and displays if unit test # is a perfect number
-    int testNumber = 68;
+    int testNumber = 5112;
     Console.WriteLine(); //Empty line for separation
     if (perfectNumbers.Contains(testNumber))
     {
